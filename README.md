@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @OceanChen2012
 - 👀 I’m interested in cloud (hybrid cloud + multi-cloud), network and edge computing, supply chain security, FinOps, open AI and data (AIGC, AI infrastructure, basic model), etc.;
 - 🌱 I’m currently learning Go,AIGC,supply chain security, FinOps, etc.;
-- 💞️ I’m looking to collaborate on edge computing;
+- 💞️ I’m looking to collaborate on cloud (hybrid cloud + multi-cloud), edge computing;
 - 📫 How to reach me ...
 
 <!---
